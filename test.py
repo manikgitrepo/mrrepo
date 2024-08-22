@@ -1,2 +1,2 @@
 
-print ("hello manik v4")
+prin("hello manik v4")
